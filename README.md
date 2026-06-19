@@ -4,9 +4,10 @@
 
 ---
 
-A 4-DOF robotic trash sorting system built for the **CIBC Spark competition**. Items are dropped in by the user, classified by a YOLOv8 vision model, and physically sorted into the correct bin by a Stewart platform with a rotating bowl.
+A 4-DOF robotic trash sorting system built. Items are dropped in by the user, classified by a YOLOv8 vision model, and physically sorted into the correct bin by a Stewart platform with a rotating bowl.
 
 ---
+ONSHAPE LINK: https://cad.onshape.com/documents/374a3ea9606b4332d25f084a/w/b8f0205f0cfaa6895c93c91e/e/6ee7d91d01f9acebc8ed9dcf?renderMode=0&uiState=6a35b72990a847a7145c244e
 
 ## How It Works
 
@@ -97,19 +98,12 @@ Three iterative firmware versions developed:
 
 ---
 
-## Competition
-
-Built for the **CIBC Spark** student innovation competition.
-
----
-
 ## Status
 
 - [x] Mechanical design (Onshape)
 - [x] IK solver
 - [x] YOLOv8 classification
 - [x] Multi-object queue firmware
-- [ ] Slip ring wiring integration
 - [ ] TPU rim fabrication
 - [ ] Full system integration test
 - [ ] Camera mount finalized
