@@ -3,7 +3,7 @@
 A running log of design decisions, breakthroughs, and dead ends building an autonomous trash sorting robot for Stardance + more stuff upcoming!!
 
 This was written by AI because I was unaware that I had to make a journal, but I reviewed all the content. **NONE OF THE CAD OR MECHANICS WAS AI GENERATED, ONLY THE CODE WHICH I HAVE NOT LOGGED TIME FOR.**
-
+Onshape(Versions show iterations): [text](https://cad.onshape.com/documents/374a3ea9606b4332d25f084a/w/b8f0205f0cfaa6895c93c91e/e/6ee7d91d01f9acebc8ed9dcf?renderMode=0&uiState=6a374abe34d5cf692fd58173)
 ---
 
 ## Early Concept & Stewart Platform v1
