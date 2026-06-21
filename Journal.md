@@ -1,6 +1,8 @@
 # AutoSort — Build Journal
 
-A running log of design decisions, breakthroughs, and dead ends building an autonomous trash sorting robot for CIBC Spark.
+A running log of design decisions, breakthroughs, and dead ends building an autonomous trash sorting robot for Stardance + more stuff upcoming!!
+
+This was written by AI because I was unaware that I had to make a journal, but I reviewed all the content. **NONE OF THE CAD OR MECHANICS WAS AI GENERATED, ONLY THE CODE WHICH I HAVE NOT LOGGED TIME FOR.**
 
 ---
 
@@ -45,7 +47,7 @@ Key improvements:
 - Packaging is cleaner — the whole unit is more self-contained
 - Easier to demonstrate at competition without bins falling out mid-demo
 
-CAD is nearly done. Final details remaining before first print.
+CAD complete. Moving to first print.
 
 ---
 
@@ -65,6 +67,8 @@ CAD is nearly done. Final details remaining before first print.
 
 ## Electronics & Firmware
 
+![Arduino IK solver and firmware](assets/code.png)
+
 - **PCA9685** PWM driver mounted on the rotating platform — only I2C + power cross the slip ring joint
 - **Slip ring** handles continuous rotation without winding up wires
 - **IK solver** written in C++ on Arduino — went through 3 firmware iterations fixing linker errors, struct ordering bugs, and light-object ejection compensation
@@ -73,17 +77,8 @@ CAD is nearly done. Final details remaining before first print.
 
 ---
 
-## Open Problems
-
-- [ ] Light/flat items still marginal on ejection — friction compensation in firmware helps but not fully solved
-- [ ] Wiring routing for slip ring not yet integrated in CAD
-- [ ] Camera mount position not finalized
-- [ ] TPU rim not yet fabricated
-- [ ] Full system integration test pending
-
----
-
 ## Time Logged
+
 | Session | Time |
 |---|---|
 | v1 Stewart platform test | 27m |
