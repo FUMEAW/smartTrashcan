@@ -1,0 +1,24 @@
+description: Ultralytics YOLO11s model trained on /kaggle/working/data.yaml
+author: Ultralytics
+date: '2026-05-11T09:24:56.597177'
+version: 8.4.48
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: BIODEGRADABLE
+  1: CARDBOARD
+  2: GLASS
+  3: METAL
+  4: PAPER
+  5: PLASTIC
+args:
+  batch: 1
+  half: false
+channels: 3
+end2end: false
