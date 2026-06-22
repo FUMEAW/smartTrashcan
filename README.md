@@ -5,6 +5,8 @@
 <img width="538" height="547" alt="Screenshot 2026-06-20 at 10 06 29 PM" src="https://github.com/user-attachments/assets/a5820709-77ae-47dc-b0ab-983227915157" />
 (I dont have render access sorry in onshape anymore 😭 hope this suffices)
 
+
+
 A 4-DOF robotic trash sorting system built. Items are dropped into the sorter's base, which has 4 slots for four seperate items, and the machine opens each slot and tilts to eject/discard that item.
 
 ---
