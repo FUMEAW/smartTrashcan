@@ -2,7 +2,8 @@
 
 **After seeing how hard it is for humans to memorize how to sort trash correctly, and how people are often way too lazy to do it correctly I decided to make this device. 
 It's meant to be simple, requiring the user to do absolutely nothing but dropping in the trash. Also, unlike existing smart trashcans, it can sort 4 items at once instead of just one.**
-**NONE OF THE CAD OR MECHANICS WAS AI GENERATED, ONLY THE CODE WHICH I HAVE NOT LOGGED TIME FOR.**
+
+**NONE OF THE CAD OR MECHANICS WAS AI GENERATED, ONLY THE CODE prototype WHICH I HAVE NOT LOGGED TIME FOR.**
 ---
 <img width="538" height="547" alt="Screenshot 2026-06-20 at 10 06 29 PM" src="https://github.com/user-attachments/assets/a5820709-77ae-47dc-b0ab-983227915157" />
 (I dont have render access sorry in onshape anymore 😭 hope this suffices)
