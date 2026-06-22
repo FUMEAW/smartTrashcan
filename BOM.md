@@ -14,7 +14,7 @@ This total goes much above my tier, so please lmk of what you can do and what yo
 | 9 | 14mm OD Bearings | Rotating platform support| 1 | ~$10* | ~$10* | [amazon.ca](https://www.amazon.ca/dp/B0C74VKJ9J)
 | 10 | Hilitand H-Bridge Driver | Dual-channel DC motor controller, 5-12V 0-30A | 1 | $29.06 | $29.06 | [amazon.ca](https://www.amazon.ca/dp/B07D2948RZ) |
 | 11 | Besitu Screw Assortment | 1705 pcs M2-M5 metric bolts, nuts, washers | 1 | $28.99 | $28.99 | [amazon.ca](https://www.amazon.ca/Machine-Assortment-Metric-Washers-Button/dp/B0C3926M1B) |
-| 12 | SendCutSend Transparent Panel | Custom cut structural panel | 4 | $12.64 | $50.56 | [sendcutsend.com](https://sendcutsend.com) |
+| 12 | SendCutSend Transparent Panel | Custom cut structural panels for each slot so the camera can see | 4 | $12.64 | $50.56 | [sendcutsend.com](https://sendcutsend.com) |
 
 ---
 
