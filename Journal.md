@@ -5,6 +5,9 @@ A running log of design decisions, breakthroughs, and dead ends building an auto
 Onshape(Versions show iterations): [text](https://cad.onshape.com/documents/374a3ea9606b4332d25f084a/w/b8f0205f0cfaa6895c93c91e/e/6ee7d91d01f9acebc8ed9dcf?renderMode=0&uiState=6a374abe34d5cf692fd58173)
 ---
 
+## First brainstroming
+This idea came to me last year, when I was coming back home after going to visit my relatives abroad. I saw a random airport employee throw a cigaratte into the recycling bin in a sparklingly new airport. I then started to think of how irresposible people were with waste management. As someone who has witnessed waste management systems first hand(I visited a sewage/organics processing center once 😭) I know how important it is for people to sort their trash correctly. So, I made this thing so it would become hopefully effortless!!
+
 ## Early Concept & Stewart Platform v1
 **~2 weeks ago | 27m logged**
 
